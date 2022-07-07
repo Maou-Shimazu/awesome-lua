@@ -14,4 +14,6 @@
 
 # Formatters
 
-| [StyLua](https://github.com/JohnnyMorganz/StyLua) | [![GitHub stars](https://img.shields.io/github/stars/JohnnyMorganz/tomlStyLua?style=social)](https://github.com/JonnyMorganz/StyLua/stargazers/) | An opinionated Lua code formatter | [![GitHub](https://img.shields.io/github/license/JohnnyMorganz/StyLua)](https://opensource.org/licenses/MPL-2.0) |
+| Library  | Stars |  Description | License |
+|--- | ---| ---|--- |
+| [StyLua](https://github.com/JohnnyMorganz/StyLua) | [![GitHub stars](https://img.shields.io/github/stars/JohnnyMorganz/StyLua?style=social)](https://github.com/JohnnyMorganz/StyLua/stargazers/) | An opinionated Lua code formatter | [![GitHub](https://img.shields.io/github/license/JohnnyMorganz/StyLua)](https://opensource.org/licenses/MPL-2.0) |
