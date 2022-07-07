@@ -4,7 +4,8 @@
 ## Table of Contents
 
 - [Neovim](#neovim)
-- [toml](#toml)
+- [Toml](#toml)
+- [Formatters](#formatters)
 
 ## Toml
 | Library  | Stars |  Description | License |
