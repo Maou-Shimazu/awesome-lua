@@ -36,6 +36,8 @@
 | [structlog](https://github.com/Tastyep/structlog.nvim) | [![GitHub stars](https://img.shields.io/github/stars/Tastyep/structlog.nvim?style=social)](https://github.com/Tastyep/structlog.nvim/stargazers/) | Structured Logging for nvim, using Lua | [![GitHub](https://img.shields.io/github/license/Tastyep/structlog.nvim)](https://opensource.org/licenses/MIT) |
 | [packer](https://github.com/wbthomason/packer.nvim) | [![GitHub stars](https://img.shields.io/github/stars/wbthomason/packer.nvim?style=social)](https://github.com/wbthomason/packer.nvim/stargazers/) | A use-package inspired plugin manager for Neovim. Uses native packages, supports Luarocks dependencies, written in Lua, allows for expressive config | [![GitHub](https://img.shields.io/github/license/windwp/nvim-autopairs)](https://opensource.org/licenses/MIT) |
 | [nvim-autopairs](https://github.com/windwp/nvim-autopairs) | [![GitHub stars](https://img.shields.io/github/stars/windwp/nvim-autopairs?style=social)](https://github.com/windwp/nvim-autopairs/stargazers/) | autopairs for neovim written by lua | [![GitHub](https://img.shields.io/github/license/windwp/nvim-autopairs)](https://opensource.org/licenses/MIT) |
+| [nvim-transparent](https://github.com/xiyaowong/nvim-transparent) | [![GitHub stars](https://img.shields.io/github/stars/xiyaowong/nvim-transparent?style=social)](https://github.com/xiyaowong/nvim-transparent/stargazers/) | Remove all background colors to make nvim transparent | [![GitHub](https://img.shields.io/github/license/xiyaowong/nvim-transparent)]() |
+
 
 ## Logging
 
